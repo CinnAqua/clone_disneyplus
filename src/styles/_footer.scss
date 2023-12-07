@@ -50,6 +50,7 @@
         height: 38px;
         &:hover {
             color: variaveis.$corTextoSecundario;
+            cursor: pointer;
         }
         option {
             color: variaveis.$corFundo;

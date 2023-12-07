@@ -37,10 +37,10 @@
                     color: variaveis.$corTextoSecundario;
                 }
                 ul {
-                    list-style-type: disc;
                     padding: 6px 36px;
                     li {
                         padding: 6px 0;
+                        list-style: disc;
                     }
                 }
             }
